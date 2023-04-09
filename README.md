@@ -1,16 +1,26 @@
-### Hi there 👋
+<p align="center">
+    <a href="https://cristianmarint.github.io/DEPORCO/"><img src="https://imgur.com/nuQbn48.gif" width="100%" height="240" ></a>
+</p>
 
-<!--
-**ergs22/ergs22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h2> Hey there! I'm Ernesto.</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+
+ 🎓 &nbsp; Studying Computer Science at Eastern University.
+<br/>
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; Javascript | C++ 
+- 🌐 &nbsp; HTML | CSS | Node.js | ReactJS
+- 🛢 &nbsp; MySQL | MongoDB
+- 🔧&nbsp; Git | Github | Gitlab | Figma
+<br/>
+📫🤝🏻 Connect with Me
+
+ - Connect with me on [LinkedIn](https://www.linkedin.com/in/ernesto-garcia-salazar-9358b41bb/) 👨🏻‍💻
+ - Shoot Me an [Email](mailto:ernestgarcia1122@gmail.com) 💌
+
+
+
+ ⭐️ From [Ergs22](https://github.com/[ergs22])
