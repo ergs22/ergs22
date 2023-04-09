@@ -11,8 +11,8 @@
 <br/>
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Javascript | C++ 
-- 🌐 &nbsp; HTML | CSS | Node.js | ReactJS
+- 💻 &nbsp; JavaScript | TypeScript
+- 🌐 &nbsp; HTML | CSS | Node.JS | React.JS
 - 🛢 &nbsp; MySQL | MongoDB
 - 🔧&nbsp; Git | Github | Gitlab | Figma
 <br/>
