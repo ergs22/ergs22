@@ -12,7 +12,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; JavaScript | TypeScript
-- 🌐 &nbsp; HTML | CSS | Node.JS | React.JS
+- 🌐 &nbsp; HTML5 | CSS3 | Vue.JS | React.JS
 - 🛢 &nbsp; MySQL | MongoDB
 - 🔧&nbsp; Git | Github | Gitlab | Figma
 <br/>
